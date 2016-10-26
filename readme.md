@@ -1,0 +1,1 @@
+Bonjour, ceci est un fichier texte expliquant mon premier projet Git/GitHub. Pas grand chose à expliquer.
